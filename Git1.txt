@@ -1,3 +1,7 @@
 Working with Git.
 Trying to solve merge conflict.
+
 1
+
+2
+
